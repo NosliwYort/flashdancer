@@ -20,7 +20,7 @@ gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '2.11.0'
 # gem 'jquery-ui-rails'
 # gem 'jquery-modal-rails'
-gem 'easymarklet'
+gem 'easymarklet', '0.0.12'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false

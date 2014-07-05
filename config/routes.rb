@@ -3,6 +3,8 @@ Flashdancer::Application.routes.draw do
 
   root 'pages#landing'
 
+  match 'fvb_iframe_producer', to: 'fvb_iframe_producer#index', via: [:get]
+
   get '/checkout', to: 'pages#checkout'
   get '/contact', to: 'pages#contact'
 
