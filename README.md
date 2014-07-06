@@ -1,2 +1,2 @@
 # FLASHDANCER
-### Rails, Stripe, Spree, Easymarklet, Bootstrap
+### Rails, Stripe, Wombat, Easymarklet, Bootstrap
